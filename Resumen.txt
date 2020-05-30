@@ -1,0 +1,2 @@
+ Git es un software de control de versiones que nos permite controlar nuestro estado de proyecto, en terminos mas sencillos nos permite realizar backup de nuestro proyecto a medida que el proyecto crece y no solo eso puede derivar su proyecto en variantes del proyecto principal y al final fusionarlo,encargando cada variante del proyecto ha cada desarrollador.
+ahora GitHub es una plataforma Web que nos permite almacenar estos repositorios en la web permitiendonos trabajar con desarrolladores en cualquier parte del mundo. 
